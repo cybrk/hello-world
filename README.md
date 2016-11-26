@@ -1,3 +1,2 @@
 # hello-world
-A public repository
-Scripts, Tools, Collabortions
+A public repository of Scripts, Tools, and Collabortions.
